@@ -9,3 +9,5 @@ Azure is structured in the following:
 
 ![Azure Hierarchy](Screenshot_1.png)
 
+
+
